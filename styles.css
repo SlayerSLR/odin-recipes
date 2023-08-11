@@ -1,0 +1,19 @@
+p,h1 {
+    text-align: center;
+    color: #ffffff;
+}
+
+.Image {
+   
+    text-align: center;
+    
+}
+
+img {
+    max-width: 50%;
+    max-height: 400px;
+}
+
+body {
+    background-color: #000000; 
+}
