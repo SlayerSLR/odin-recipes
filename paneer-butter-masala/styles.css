@@ -1,0 +1,16 @@
+img {
+    width: 20%;
+    height: 500px;    
+    display: block;
+    margin: 0 auto;
+}
+
+.paneer {
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+h1 {
+    text-align:center;
+}
